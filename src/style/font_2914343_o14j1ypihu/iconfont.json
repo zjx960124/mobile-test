@@ -1,0 +1,44 @@
+{
+  "id": "2914343",
+  "name": "base",
+  "font_family": "iconfont",
+  "css_prefix_text": "myicon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "26308642",
+      "name": "已选择",
+      "font_class": "yixuanze",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "8821262",
+      "name": "功能-01",
+      "font_class": "gongneng-",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "77403",
+      "name": "链接",
+      "font_class": "lianjie",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7638986",
+      "name": "功能",
+      "font_class": "gongneng",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "23262773",
+      "name": "图片轮播",
+      "font_class": "tupianlunbo",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    }
+  ]
+}

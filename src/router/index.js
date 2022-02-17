@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import { constantRouterMap } from './router.config.js'
+import constantRouterMap  from './router.config.js'
 
 // hack router push callback
 const originalPush = Router.prototype.push
@@ -20,6 +20,11 @@ const createRouter = () =>
   })
 
 const router = createRouter()
+
+router.beforeEach((to,from,next) => {
+  document.title = to.meta.title
+  next()
+});
 
 // Detail see: https://github.com/vuejs/vue-router/issues/1234#issuecomment-357941465
 export function resetRouter() {

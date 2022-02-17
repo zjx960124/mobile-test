@@ -1,0 +1,100 @@
+{
+  "id": "2914343",
+  "name": "base",
+  "font_family": "iconfont",
+  "css_prefix_text": "myicon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "418219",
+      "name": "完成勾选2",
+      "font_class": "wanchenggouxuan2",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "880291",
+      "name": "更多",
+      "font_class": "gengduomore12",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "10501989",
+      "name": "对话",
+      "font_class": "ziyuan",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "11882858",
+      "name": "bg-more",
+      "font_class": "bg-more",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "25965337",
+      "name": "圆形-更多",
+      "font_class": "yuanxing-gengduo",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "4417953",
+      "name": "中国建设银行",
+      "font_class": "zhongguojiansheyinhang",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "27157321",
+      "name": "分割线",
+      "font_class": "a-ziyuan13",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "27157322",
+      "name": "资源 3",
+      "font_class": "a-ziyuan3",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "26308642",
+      "name": "已选择",
+      "font_class": "yixuanze",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "8821262",
+      "name": "功能-01",
+      "font_class": "gongneng-",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "77403",
+      "name": "链接",
+      "font_class": "lianjie",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7638986",
+      "name": "功能",
+      "font_class": "gongneng",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "23262773",
+      "name": "图片轮播",
+      "font_class": "tupianlunbo",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    }
+  ]
+}
